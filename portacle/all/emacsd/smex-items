@@ -1,0 +1,17 @@
+
+;; ----- smex-history -----
+(
+ evil-mode
+ package-install
+ cd
+ 5x5
+ arp
+ dbx
+ dig
+)
+
+;; ----- smex-data -----
+(
+ (package-install . 1)
+ (evil-mode . 3)
+)
