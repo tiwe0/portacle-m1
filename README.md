@@ -1,2 +1,2 @@
-# portacle-m1
-build for mac m1
+# portacle-m1 (arm-version)
+build for mac m1 arm64
