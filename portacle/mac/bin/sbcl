@@ -1,0 +1,2 @@
+#!/bin/bash
+SBCL_SOURCE_ROOT="/opt/homebrew/Cellar/sbcl/2.4.3/share/sbcl/src" SBCL_HOME="/opt/homebrew/Cellar/sbcl/2.4.3/lib/sbcl" exec "/opt/homebrew/Cellar/sbcl/2.4.3/libexec/bin/sbcl"  "$@"

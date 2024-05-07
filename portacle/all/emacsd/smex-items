@@ -1,0 +1,18 @@
+
+;; ----- smex-history -----
+(
+ slime
+ package-install
+ cd
+ 5x5
+ arp
+ dbx
+ ag
+)
+
+;; ----- smex-data -----
+(
+ (package-install . 1)
+ (sly-abort-connection . 1)
+ (slime . 1)
+)
